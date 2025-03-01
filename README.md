@@ -74,10 +74,6 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Essentials by Cyndy</h1>
-    <p>This site is published using GitHub Pages.</p>
-    <img src="lolo.jpg" alt="Lolo Image">
-    <img src="th.png" alt="Thumbnail Image">
     <div id="recaptcha-container">
         <img src="th.png" alt="reCAPTCHA" class="recaptcha-icon">
         <label for="recaptcha-checkbox">
