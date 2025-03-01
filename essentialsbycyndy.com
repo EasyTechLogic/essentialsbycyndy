@@ -1,1 +1,0 @@
-essentialsbycyndy.com
