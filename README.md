@@ -75,7 +75,7 @@
     </style>
 
     <div id="recaptcha-container">
-        <img src="/cap/th.png" alt="reCAPTCHA" class="recaptcha-icon">
+        <img src="/th.png" alt="reCAPTCHA" class="recaptcha-icon">
         <label for="recaptcha-checkbox">
             <input type="checkbox" id="recaptcha-checkbox">
             I AM NOT A ROBOT
