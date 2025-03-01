@@ -1,3 +1,5 @@
+<html lang="en">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -73,7 +75,7 @@
     </style>
 
     <div id="recaptcha-container">
-        <img src="/th.png" alt="reCAPTCHA" class="recaptcha-icon">
+        <img src="/cap/th.png" alt="reCAPTCHA" class="recaptcha-icon">
         <label for="recaptcha-checkbox">
             <input type="checkbox" id="recaptcha-checkbox">
             I AM NOT A ROBOT
@@ -93,3 +95,4 @@
             }
         });
     </script>
+</html>
