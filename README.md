@@ -1,1 +1,1 @@
-# essentialsbycyndy.com jp is com
+# essentialsbycyndy.com jp is comim
