@@ -1,1 +1,1 @@
-# essentialsbycyndy.com
+# essentialsbycyndy.com jp is com
