@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +9,6 @@
     <meta property="og:description" content="Discover the best home decor ideas and transform your space into a stylish haven.">
     <meta property="og:image" content="https://www.essentialsbycyndy.com/lolo.jpg">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.essentialsbycyndy.com">
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
