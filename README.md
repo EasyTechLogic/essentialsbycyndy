@@ -7,18 +7,18 @@
     <meta name="author" content="Jaytechnlogic">
     <meta property="og:title" content="Transform Your Space!">
     <meta property="og:description" content="Discover the best home decor ideas and transform your space into a stylish haven.">
-    <meta property="og:image" content="https://www.essentialsbycyndy.com/lolo.jpg">
+    <meta property="og:image" content="https://github.com/EasyTechLogic/essentialsbycyndy/blob/main/lolo.jpg">
     <meta property="og:type" content="website">
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Transform Your Home | Home Decor Ideas">
     <meta name="twitter:description" content="Discover the best home decor ideas and transform your space into a stylish haven.">
-    <meta name="twitter:image" content="https://www.essentialsbycyndy.com/lolo.jpg">
+    <meta name="twitter:image" content="https://github.com/EasyTechLogic/essentialsbycyndy/blob/main/lolo.jpg">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="https://www.essentialsbycyndy.com/lolo.jpg">
-    <link rel="apple-touch-icon" href="https://www.essentialsbycyndy.com/lolo.jpg">
+    <link rel="icon" type="image/x-icon" href="https://github.com/EasyTechLogic/essentialsbycyndy/blob/main/lolo.jpg">
+    <link rel="apple-touch-icon" href="https://github.com/EasyTechLogic/essentialsbycyndy/blob/main/lolo.jpg">
     
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
